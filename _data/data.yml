@@ -112,6 +112,10 @@ projects:
         - title: BIM (Bitrix Migration)
           link: "https://github.com/cjp2600/bim-core"
           tagline: "Database schema migration tool for 1C Bitrix CMS"
+          
+        - title: Highloadblock Wrapper
+          link: "https://github.com/cjp2600/hiwrapper"
+          tagline: "Wrapper for working with Highloadblock for 1C Bitrix CMS"          
 
 publications:
     title: Publications
