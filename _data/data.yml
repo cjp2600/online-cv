@@ -106,11 +106,12 @@ projects:
     title: Projects
     intro: >
         In my free time, I try to contribute to the development of the open-source community.
+        Because I think that together we can do something really great
 
     assignments:
-        - title: BIM
+        - title: BIM (Bitrix Migration)
           link: "https://github.com/cjp2600/bim-core"
-          tagline: "Version migration of the database structure for 1C Bitrix CMS"
+          tagline: "Database schema migration tool for 1C Bitrix CMS"
 
 publications:
     title: Publications
