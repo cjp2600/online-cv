@@ -58,11 +58,13 @@ experiences:
       time: 2017 - Present
       company: Factory Market Retail GmbH, Berlin Area, Germany
       details: |
-        Factorymarket is the first Omni-Channel-Hypermarket concept with the core focus in the area of "New Retail".
-        "New Retail" enables the customers to combine their shopping experience, 
-        by integrating mobile shopping into the classic retail business experience.
-        Factorymarket links producers and customers. We have a better understanding for our customer needs which results
-        in offering products that our customers really want.
+        Factorymarket is the first Omni-Channel-Hypermarket concept with the core focus in the area of "New Retail"
+            - Web: https://factorymarket.de
+            - Android: https://play.google.com/store/apps/details?id=com.factorymarket
+            - Ios: https://itunes.apple.com/de/app/factorymarket/id1281920602
+        ### Technological stack
+            - Language: Go/PHP
+            - Storage: Postgres, Redis, Elasticsearch
 
     - role: Senior Software Engineer
       time: 2014 - 2015
