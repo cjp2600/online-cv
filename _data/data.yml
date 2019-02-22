@@ -68,11 +68,7 @@ experiences:
             - **Language:** Go/PHP
             - **Storage:** Postgres, Redis, Elasticsearch
             - **Infrastructure:** Microservices, Kubernetes, AWS
-        
-        My Duties
-        
-            - Development and support Go services
-        
+            
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
