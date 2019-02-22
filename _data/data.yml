@@ -35,14 +35,14 @@ sidebar:
         - item: Composing music
           link: http://promodj.com/cjp2600
 
-        - item: Snowboarding
+        - item: Travels
           link:
 
         - item: Cooking
           link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
         I am a backend developer with more than ten-year practical experience! My main practical languages are Go and PHP but also have experience in writing applications on javascript, Java.
         The most part of career I worked with PHP but the last two years I work as Go Senior developer.
@@ -153,14 +153,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-        - name: Python & Django
-          level: 98%
+        - name: PHP
+          level: 95%
 
-        - name: Javascript & jQuery
-          level: 98%
-
-        - name: Angular
-          level: 98%
+        - name: GO
+          level: 90%
 
         - name: HTML5 & CSS
           level: 95%
