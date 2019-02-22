@@ -115,7 +115,11 @@ projects:
           
         - title: Highloadblock Wrapper
           link: "https://github.com/cjp2600/hiwrapper"
-          tagline: "Wrapper for working with Highloadblock for 1C Bitrix CMS"          
+          tagline: "Wrapper for working with Highloadblock for 1C Bitrix CMS"     
+
+        - title: Сomposite shape
+          link: "https://github.com/cjp2600/composite.shape"
+          tagline: "Component - shell for deferred execution of functional with high load for 1C Bitrix CMS"     
 
 publications:
     title: Publications
