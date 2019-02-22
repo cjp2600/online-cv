@@ -73,6 +73,7 @@ experiences:
           Duties
 
           - Development and support of services on GO
+          - Code architecture 
           - Writing tests, Infrastructure setup (CI/CD)
           - Supervising the development of the Go direction in the company, codereview and mentoring of junior developers
     - role: Senior Software Engineer
