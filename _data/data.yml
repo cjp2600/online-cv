@@ -59,20 +59,20 @@ experiences:
       company: Factory Market Retail GmbH, Berlin Area, Germany
       details: |
         Factorymarket is the first Omni-Channel-Hypermarket concept with the core focus in the area of New Retail.
-        - **Web:** [https://factorymarket.de](https://factorymarket.de)
-        - **Android:** [https://play.google.com/store/apps/details?id=com.factorymarket](https://play.google.com/store/apps/details?id=com.factorymarket)
-        - **Ios:** [https://itunes.apple.com/de/app/factorymarket/id1281920602](https://itunes.apple.com/de/app/factorymarket/id1281920602)
+            - **Web:** [https://factorymarket.de](https://factorymarket.de)
+            - **Android:** [https://play.google.com/store/apps/details?id=com.factorymarket](https://play.google.com/store/apps/details?id=com.factorymarket)
+            - **Ios:** [https://itunes.apple.com/de/app/factorymarket/id1281920602](https://itunes.apple.com/de/app/factorymarket/id1281920602)
 
         Technological stack
 
-        - **Language:** Go/PHP
-        - **Storage:** Postgres, Redis, Elasticsearch
-        - **Infrastructure:** Microservices, Kubernetes, AWS
+            - **Language:** Go/PHP
+            - **Storage:** Postgres, Redis, Elasticsearch
+            - **Infrastructure:** Microservices, Kubernetes, AWS
         
         My Duties
         
-        - Development and support Go services
-
+            - Development and support Go services
+        
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
