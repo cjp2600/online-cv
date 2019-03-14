@@ -44,11 +44,12 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-        I am a backend developer with more than ten-year practical experience! My main practical languages are Go and PHP but also have experience in writing applications on javascript, Java.
-        The most part of career I worked with PHP but the last two years I work as Go Senior developer.
-        I am a big fan of work which I do and therefore I constantly am engaged in self-education.
-        
-        I try to conduct healthy and active lifestyle
+        I am a backend developer with more than ten-year practical experience! My main practical languages are Go and PHP. 
+        I also have an experience in writing applications on javascript, Java. 
+        I spent most my professional career working with PHP but I worked as Go Senior developer for the last 2 years.
+        I am a big fan of work that I do and thet is why I am constantly strive for a self-education.
+
+        I try to live healthy and active life.
 education:
     - degree: Civil Lawyer
       university: Moscow Academy of Businessn
