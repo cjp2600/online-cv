@@ -1,25 +1,55 @@
 ---
 layout: compress
 ---
-<!DOCTYPE html>
-<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
-<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
-{% include head.html %}
-
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Stanislav Semenov - semenov.tech</title>
+	<meta name="description" content="Personal site of Stanislav Semenov">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
+	<style type="text/css" media="screen">
+		* { padding: 0; margin: 0; }
+		html,body { height: 100%; width: 100%; font-family: 'Inconsolata', monospace; }
+		body {
+			min-width: 23rem; font-family: 'Inconsolata', monospace; display: table;
+			background-color: #00598c;
+		}
+		#container {
+			display: table-cell; vertical-align: middle; text-align: center;
+		}
+		#inner {
+			display: inline-block; padding: 1rem;
+		}
+		#inner > p {
+			display: block; font-size: 1rem; padding: 0.3rem 0;
+		}
+		ul {
+			display: inline-block; padding: 0.6rem 0 0.3rem 0;
+		}
+		li {
+			list-style: none; margin: 0 0.3rem; float: left;
+		}
+		li > a {
+			color: #fff; font-size: 1.3rem; letter-spacing: 0.1em;
+			text-decoration: none; display: block; padding: 0.9rem 1rem;
+		}
+		li > a:hover {
+			background-color: #fff;
+		}
+	</style>
+</head>
 <body>
-  <div class="wrapper">
-    {% include sidebar.html %}
-
-    <div class="main-wrapper">
-        {{ content }}
-    </div>
-  </div>
-
-  {% include footer.html %}
-
-{% include scripts.html %}
+	<div id="container"><div id="inner">
+		<p>My name is Stanislav Semenov.</p>
+		<p>Senior Software Engineer, Technical Consultant, Team Leader, Go developer.</p>
+		<ul>
+			<li><a href="mailto:icjp2600@gmail.com">mail</a></li>
+			<li><a href="https://github.com/cjp2600">code</a></li>
+			<li><a href="#">cv</a></li>
+		</ul>
+		<p>cjp2600 in web</p>
+	</div></div>
 </body>
-
 </html>
-
